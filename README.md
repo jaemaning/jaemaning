@@ -6,3 +6,4 @@ Hello my name is jaeman
 <hr>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jaemaning&show_icons=true&theme=gotham)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaemaning&layout=compact&theme=gotham)
