@@ -22,6 +22,14 @@ Don't hesitate to contact me if you have any questions or interesting to me.
 
 <hr>
 
+<div align='center'>
+
+   I'm really into :alarm_clock:<span style="color:orange">Stock trading automation program</span>:computer: these days
+
+</div>
+
+<hr>
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jaemaning&show_icons=true&theme=gotham)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaemaning&layout=compact&theme=gotham)
 
