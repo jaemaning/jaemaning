@@ -1,4 +1,5 @@
 <div align='center'>
+
 :battery: Hi there ! I'm Jaeman kim. :battery:
 
 <br>
@@ -8,6 +9,7 @@ I wanna be good programmer. :stars:
 Thank you for come to my Github. :blush:
   
 Don't hesitate to contact me if you have any questions or interesting to me.
+  
 </div>
 
 <hr>
