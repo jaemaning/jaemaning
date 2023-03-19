@@ -1,5 +1,7 @@
 <div align='center'>
 :battery: Hi there ! I'm Jaeman kim. :battery:
+
+<br>
   
 I wanna be good programmer. :stars:
   
