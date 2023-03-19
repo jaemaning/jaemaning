@@ -24,7 +24,7 @@ Don't hesitate to contact me if you have any questions or interesting to me.
 
 <div align='center'>
 
-   I'm really into :alarm_clock:<span style="color:orange">Stock trading automation program</span>:computer: these days
+   I'm really into :alarm_clock:<span color='orange'>Stock trading automation program</span>:computer: these days
 
 </div>
 
