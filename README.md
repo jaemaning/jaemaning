@@ -26,11 +26,11 @@ Don't hesitate to contact me if you have any questions or interesting to me.
 
 These days, I'm really into 
   
-
+<span style="color:red"> :alarm_clock: Stock trading automation program :computer: </span>
   
 </div>
 
-<span style="color:red"> :alarm_clock: Stock trading automation program :computer: </span>
+
 
 <hr>
 
