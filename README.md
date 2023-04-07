@@ -2,6 +2,8 @@
 
 :battery: Hi there ! I'm Jaeman kim. :battery:
 
+![hello](https://jaemaning.github.io/jaemaning/images/hello.gif)
+
 <br>
   
 I wanna be good programmer. :stars:
