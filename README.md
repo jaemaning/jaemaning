@@ -2,7 +2,7 @@
 
 :battery: Hi there ! I'm Jaeman kim. :battery:
 
-![hello](https://jaemaning.github.io/jaemaning.github.io/images/hello.gif)
+![hello](https://jaemaning.github.io/images/hello.gif)
   
 <br>
   
