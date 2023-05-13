@@ -12,6 +12,8 @@ Thank you for come to my Github. :blush:
   
 Don't hesitate to contact me if you have any questions or interesting to me.
   
+Email : lovesay00@naver.com
+  
 </div>
 
 <hr>
