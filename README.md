@@ -30,7 +30,7 @@ Email : lovesay00@naver.com
 
 These days, I'm really into 
   
-<span style="color:red"> :alarm_clock: Samsung ONE(On-Device Nueral Engine) Project :computer: </span>
+<span style="color:red"> :alarm_clock: Android App Native(Kotlin) Project :computer: </span>
   
 </div>
 
